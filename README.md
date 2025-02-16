@@ -2,11 +2,8 @@
 ## Bem vindo ao meu perfil 👋
 
 
-*Nascido no Rio de Janeiro, tenho 31 anos e atualmente estudo programação na Alura! Gosto muito de criar e ouvir músicas, meus esportes favoritos são Boxing e Golfe.* 
-
->Acredito que viver de tecnologia seja minha vocação! 
-
-       
+*Nascido no Rio de Janeiro, acredito que viver de tecnologia seja minha vocação. Tenho 31 anos e atualmente estudo programação na Alura! Gosto muito de criar e ouvir músicas, meus esportes favoritos são Boxing e Golfe.* 
+ 
 **Estou aprendendo sobre** 
 ----------
  
